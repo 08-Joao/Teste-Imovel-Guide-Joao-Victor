@@ -1,46 +1,19 @@
-# Getting Started with Create React App
+# Teste prático Imovel Guide - Front-End
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Adendo
 
-## Available Scripts
+## Como a navbar do exercício estava relativamente "antiga", baseei-me pela navbar do vosso site https://imovelguide.com.br/ portanto, alguns detalhes valem a pena salientar
+* Padrão de cores (Navbar Branca tal que width da tela < 1400px e Azul em > 1400)
+* Mobile/Tablet Appearence (Width < 1200)
+## Outros detalhes
+* Validação de CPF(Ao final da digitação do CPF ele automaticamente valida se o Cpf é válido ou não)
+* A lista de Corretores, item .1 é scrollavel. Neste exemplo utilizei 4 corretores de imóvel
+* A opção de mostrar o telefone é temporára. Após clicar na opção Ver Telefone, o telefone aparecerá(já formatado) e após 10 segundos voltará para a mensagem "Ver Telefone"
+  
+## Comandos
+* npm install - Para instalação de dependências como React Routes, React Icons, entre outros...
+* npm start - Para iniciar o programa
+* npm build - Para buildar a aplicação
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Candidato: Joao Victor Vieira A. de Figueiredo
+Esta aplicação tem como propósito realizar as tarefas atribuidas pelo teste prático de 6 questões. Para isso, foi utilizado tecnologias e metodologias para a melhor construção do código
