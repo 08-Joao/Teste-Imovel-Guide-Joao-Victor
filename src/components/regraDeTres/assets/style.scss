@@ -1,0 +1,28 @@
+.regraTres__inputs {
+    margin: 80px 0
+}
+
+.regraTres__inputsContainer { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+}
+
+.regraTres__lineContainer { 
+    margin-left: 15px;
+    margin-top: 30px;
+    height: 100%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.regraTres__line {
+    height: 2px;
+    width: 100%;
+    margin: 20px;
+    background-color: var(--grayColor);
+    transition: var(--commonTransitions)
+}

@@ -1,0 +1,79 @@
+.imagemModal__Img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    display: block
+  }
+
+  .imagemModal__button {
+    margin: 10px 0;
+    width: 100%
+  }
+
+  .imagemModal__modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000
+  }
+  
+  .imagemModal__modalOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1
+  }
+  
+  .imagemModal__content {
+    position: relative;
+    z-index: 2;
+    background-color: #fff;
+    border-radius: 8px;
+    text-align: center
+  }
+
+  .modal__closeButtonContainer { 
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 40px;
+    padding: 20px;
+    border-bottom: 2px solid var(--grayColor);
+
+    button { 
+        background: none;
+        border: none;
+        font-weight: bolder;
+        color: var(--orangeColor);
+        font-size: 30px
+    }
+
+    button:hover { 
+        cursor: pointer
+    }
+  }
+  
+  .imagemModal__image {
+    padding: 20px;
+    max-width: 100%;
+    width: 50vw;
+    height: 50vh;
+    height: auto
+  }
+  
+  .modal__close {
+    margin-top: 10px;
+    background-color: #f00;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer
+  }
