@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Teste-Imovel-Guide-Joao-Victor/static/css/main.abe71fe3.css",
+    "main.css": "/Teste-Imovel-Guide-Joao-Victor/static/css/main.1a505b7f.css",
     "main.js": "/Teste-Imovel-Guide-Joao-Victor/static/js/main.ef260a6b.js",
     "static/media/corretora-2.png": "/Teste-Imovel-Guide-Joao-Victor/static/media/corretora-2.b75a435fd81098d25189.png",
     "static/media/corretor-2.jpg": "/Teste-Imovel-Guide-Joao-Victor/static/media/corretor-2.f7026b92e9760da6aa37.jpg",
@@ -9,11 +9,11 @@
     "static/media/corretora-1.jpeg": "/Teste-Imovel-Guide-Joao-Victor/static/media/corretora-1.d3603c80de2f270f5686.jpeg",
     "static/media/logo-imovel-guide.webp": "/Teste-Imovel-Guide-Joao-Victor/static/media/logo-imovel-guide.dda49c6d086eea7215a6.webp",
     "index.html": "/Teste-Imovel-Guide-Joao-Victor/index.html",
-    "main.abe71fe3.css.map": "/Teste-Imovel-Guide-Joao-Victor/static/css/main.abe71fe3.css.map",
+    "main.1a505b7f.css.map": "/Teste-Imovel-Guide-Joao-Victor/static/css/main.1a505b7f.css.map",
     "main.ef260a6b.js.map": "/Teste-Imovel-Guide-Joao-Victor/static/js/main.ef260a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe71fe3.css",
+    "static/css/main.1a505b7f.css",
     "static/js/main.ef260a6b.js"
   ]
 }
